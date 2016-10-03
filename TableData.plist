@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Shelf</key>
+		<string>Science Fiction</string>
+		<key>Books</key>
+		<array>
+			<dict>
+				<key>Title</key>
+				<string>Dune</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Ender&apos;s Game</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Neuromancer</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Hyperion</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Fahrenheit 451</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Shelf</key>
+		<string>Action &amp; Adventure</string>
+		<key>Books</key>
+		<array>
+			<dict>
+				<key>Title</key>
+				<string>Before You Leap</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>The Girl with All The Gifts</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Harry Potter and the Prisoner of Azkaban</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Dhalgren</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>The Lost Symbol</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Shelf</key>
+		<string>Non-fiction</string>
+		<key>Books</key>
+		<array>
+			<dict>
+				<key>Title</key>
+				<string>Silent Spring</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Freakonomics</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Outliers</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Thinking, Fast and Slow</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>22 Immutable Laws of Marketing</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>The Witches</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>The Power of Habit</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Meditations</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Shelf</key>
+		<string>Biographies</string>
+		<key>Books</key>
+		<array>
+			<dict>
+				<key>Title</key>
+				<string>Titan: The Life of John D. Rockefeller</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Plutarch&apos;s Lives</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Eisenhower in War and Peace</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Edison: A Biography</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Empire State of Mind</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Hurricane</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>The Autobiography of Malcolm X</string>
+			</dict>
+			<dict>
+				<key>Title</key>
+				<string>Washington: A Life</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
